@@ -1,0 +1,3 @@
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/build/CMakeFiles/rebuild_cache.dir
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/build/CMakeFiles/edit_cache.dir
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/build/CMakeFiles/executavel.dir

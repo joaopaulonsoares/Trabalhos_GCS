@@ -1,0 +1,11 @@
+Source: hellogcs
+Maintainer: João Paulo Nunes Soares <paulonsoares@yahoo.com.br>
+Section:  misc
+Priority: optional
+Standards-Version:  3.9.6
+Build-Depends:  debhelper (>= 9)
+
+Package:  hellogcs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: greet user.

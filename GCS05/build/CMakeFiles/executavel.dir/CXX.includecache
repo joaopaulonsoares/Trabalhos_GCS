@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/pokedex.hpp
+
+../includes/pokemon.hpp
+
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/main.cpp
+cstdio
+-
+iostream
+-
+pokemon.hpp
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokemon.hpp
+pokedex.hpp
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokedex.hpp
+version.hpp
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/version.hpp
+
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokedex.cpp
+pokedex.hpp
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokedex.hpp
+iostream
+-
+cstdio
+-
+
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokemon.cpp
+stdio.h
+-
+pokemon.hpp
+/home/joaopaulonsoares/GCS/Trabalhos/GCS05/sources/pokemon.hpp
+
+version.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/executavel.dir/sources/main.cpp.o CMakeFiles/executavel.dir/sources/pokedex.cpp.o CMakeFiles/executavel.dir/sources/pokemon.cpp.o  -o executavel 
