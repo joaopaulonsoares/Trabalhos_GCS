@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"/home/joaopaulonsoares/GCS/Testefinal","disabled":false,"__vagrantfile":true}},"rsync":{"/django-basico-postgree":{"type":"rsync","guestpath":"/django-basico-postgree","hostpath":"/home/joaopaulonsoares/GCS/Testefinal","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
